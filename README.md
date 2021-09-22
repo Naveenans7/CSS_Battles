@@ -1,2 +1,2 @@
 # cssbattles
-https://app.netlify.com/sites/cocky-almeida-a2af73/overview
+https://zen-mayer-08a4d3.netlify.app
